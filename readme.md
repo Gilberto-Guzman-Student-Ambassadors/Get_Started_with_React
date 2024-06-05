@@ -2,15 +2,7 @@
 
 ## Resources - Recursos
 
-### Presentation - Presentación
-
-[Presentation - Presentación](https://github.com/Gilberto-Guzman-Student-Ambassadors/Get_Started_with_React/blob/main/presentation/slides.pptx)
-
-### Main Code - Codigo Principal
-
-[Main Code - Codigo Principal](https://github.com/Gilberto-Guzman-Student-Ambassadors/mslearn-react-mod)
-
-# Contact Information - Información de contacto
-
-[Contact Information - Información de contacto](https://gilberto-guzman.github.io/)
+- [Presentation - Presentación](https://github.com/Gilberto-Guzman-Student-Ambassadors/Get_Started_with_React/blob/main/presentation/slides.pptx)
+- [Main Code - Codigo Principal](https://github.com/Gilberto-Guzman-Student-Ambassadors/mslearn-react-mod)
+- [Contact Information - Información de contacto](https://gilberto-guzman.github.io/)
 
