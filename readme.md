@@ -2,7 +2,7 @@
 
 **In this event, you will learn the basics of React and JSX. We will see how to install React and create a project, create our first component, apply styles, and display data dynamically.**
 
-## 📚 Resources - Recursos test local
+## 📚 Resources - Recursos
 
 - 📘 [**Microsoft Learn Module**](https://learn.microsoft.com/es-mx/training/modules/react-get-started/?WT.mc_id=academic-56602-chrhar)
 - 📑 [**Presentation**](https://github.com/Gilberto-Guzman-Student-Ambassadors/Get_Started_with_React/blob/main/presentation/slides.pptx)
