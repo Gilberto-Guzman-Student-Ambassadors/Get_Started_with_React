@@ -3,7 +3,7 @@
 # [**🎉 Register Here! - Registrate Aqui 🎉**](https://forms.office.com/Pages/ResponsePage.aspx?id=oBzDhDusrk6tEVGdgCM-b3OCv62PznhHm-dSCaLwRlhUNllFT0gxVk1ISTJVUDRDRFlUMUNGUDk3MS4u&wt.mc_id=studentamb_336682)
 
 **There is a chance you could win Xbox/PC Game Pass Ultimate (3 months) and get a Certificate of Completion!**</br>
-**Existe la posibilidad de que puedas ganar Xbox/PC Game Pass Ultimate (3 meses) y obtener un Certificado de Finalización.**
+**Existe la posibilidad de que puedas ganar Xbox/PC Game Pass Ultimate (3 meses) y obtener una constancia de Finalización.**
 
 
 # 🚀 Get Started with React
